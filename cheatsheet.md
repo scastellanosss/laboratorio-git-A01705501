@@ -1,3 +1,5 @@
+Resumen personal de comandos
+
 git status: Te dice cómo está tu repositorio y qué archivos tienen cambios.
 git add: Prepara los archivos que quieres guardar en el siguiente commit.
 git commit: Guarda los cambios que hiciste y les pone un mensaje para saber qué cambiaste.
